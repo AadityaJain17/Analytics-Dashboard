@@ -36,30 +36,30 @@ const cardData: CardProps[] = [
 
 const uesrSalesData: SalesProps[] = [
   {
-    name: "Olivia Martin",
-    email: "olivia.martin@email.com",
-    saleAmount: "+$1,999.00"
+    name: "Aaditya Jain",
+    email: "aadityajain@gmail.com",
+    saleAmount: "+$1,999.00",
   },
   {
-    name: "Jackson Lee",
-    email: "isabella.nguyen@email.com",
-    saleAmount: "+$1,999.00"
+    name: "Chaitanaya Kusumakar",
+    email: "chaitanayakusumakar@gmail.com",
+    saleAmount: "+$2,000.00",
   },
   {
-    name: "Isabella Nguyen",
-    email: "isabella.nguyen@email.com",
-    saleAmount: "+$39.00"
+    name: "Nishant Harde",
+    email: "nishantharde@gmail.com",
+    saleAmount: "+$39.00",
   },
   {
-    name: "William Kim",
-    email: "will@email.com",
-    saleAmount: "+$299.00"
+    name: "Raghav Soni",
+    email: "sonyraghav@gmail.com",
+    saleAmount: "+$299.00",
   },
   {
-    name: "Sofia Davis",
-    email: "sofia.davis@email.com",
-    saleAmount: "+$39.00"
-  }
+    name: "Vandita Pathak",
+    email: "vanditapathak@gmail.com",
+    saleAmount: "+$39.00",
+  },
 ];
 
 export default function Home() {

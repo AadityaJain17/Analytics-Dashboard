@@ -55,50 +55,50 @@ const columns: ColumnDef<Payment>[] = [
 
 const data: Payment[] = [
   {
-    name: "John Doe",
-    email: "john@example.com",
+    name: "Aaditya Jain",
+    email: "aadityajain@gmail.com",
     lastOrder: "2023-01-01",
     method: "Credit Card"
   },
   {
-    name: "Alice Smith",
-    email: "alice@example.com",
+    name: "Chaitanaya Kusumakar",
+    email: "chaitanayakusumakar@gmail.com",
     lastOrder: "2023-02-15",
     method: "PayPal"
   },
   {
-    name: "Bob Johnson",
-    email: "bob@example.com",
+    name: "Nishant Harde",
+    email: "nishantharde@gmail.com",
     lastOrder: "2023-03-20",
     method: "Stripe"
   },
   {
-    name: "Emma Brown",
-    email: "emma@example.com",
+    name: "Raghav Soni",
+    email: "sonyraghav@gmail.com",
     lastOrder: "2023-04-10",
     method: "Venmo"
   },
   {
-    name: "Michael Davis",
-    email: "michael@example.com",
+    name: "Vandita Pathak",
+    email: "vanditapathak@gmail.com",
     lastOrder: "2023-05-05",
     method: "Cash"
   },
   {
-    name: "Sophia Wilson",
-    email: "sophia@example.com",
+    name: "Karan Bansal",
+    email: "karanbansal@gmail.com",
     lastOrder: "2023-06-18",
     method: "Bank Transfer"
   },
   {
-    name: "Liam Garcia",
-    email: "liam@example.com",
+    name: "Aditya Agarawal",
+    email: "adityaagawal@gmail.com",
     lastOrder: "2023-07-22",
     method: "Payoneer"
   },
   {
-    name: "Olivia Martinez",
-    email: "olivia@example.com",
+    name: "Manas Vyas",
+    email: "vyasmanas@gmail.com",
     lastOrder: "2023-08-30",
     method: "Apple Pay"
   },
